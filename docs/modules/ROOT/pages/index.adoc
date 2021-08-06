@@ -1,0 +1,6 @@
+:imagesdir: ../assets/images
+= Complete this overview of the workshop
+
+image::overview.png[]
+
+MuleSoft HLS Accelerator

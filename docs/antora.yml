@@ -1,0 +1,10 @@
+name: xp
+title: MuleSoft XP Workshop
+version: master
+nav:
+- modules/ROOT/nav.adoc
+- modules/config/nav.adoc
+- modules/bapi/nav.adoc
+- modules/idoc/nav.adoc
+- modules/database/nav.adoc
+- modules/odata/nav.adoc

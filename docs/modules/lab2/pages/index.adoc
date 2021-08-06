@@ -1,0 +1,5 @@
+:imagesdir: ../assets/images
+= Lab 2: Complete this template.
+
+== Overview
+image::mule_sfdc.png[]

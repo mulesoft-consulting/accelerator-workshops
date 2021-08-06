@@ -1,0 +1,2 @@
+o:moduledir: ..
+include::{moduledir}/_attributes.adoc[]

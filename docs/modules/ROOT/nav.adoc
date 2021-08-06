@@ -1,0 +1,7 @@
+* xref::index.adoc[Overview]
+* xref:workshop-setup.adoc[Workshop Setup]
+
+* xref:lab1:index.adoc[Lab 1: Create an OData-Enabled API]
+* xref:lab2:index.adoc[Lab 2: Working with Salesforce Bots & External Services]
+* xref:lab3:index.adoc[Lab 3: Work with a Salesforce Template]
+* xref:lab4:index.adoc[Lab 4 (Optional): Create Flow and Connect]
